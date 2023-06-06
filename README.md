@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My GitHub stats](github-readme-stats-git-master-jjh2613-jin.vercel.app/api?username=jjh2613)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats-git-master-jjh2613-jin.vercel.app/api?username=jjh2613)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jjh2613/jjh2613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
